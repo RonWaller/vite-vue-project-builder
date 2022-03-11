@@ -8,13 +8,12 @@ This repository will help create a boilerplate Vue project using Vite. When down
 
 ## Dependencies
 
-![Vite (dev dep on branch)](https://img.shields.io/github/package-json/dependency-version/RonWaller/vite-vanilla-project-starter/dev/vite?style=flat-square&color=brightgreen)
-![Babel (dev dep on branch)](https://img.shields.io/github/package-json/dependency-version/RonWaller/vite-vanilla-project-starter/dev/@babel/core?style=flat-square)
-![Eslint (dev dep on branch)](https://img.shields.io/github/package-json/dependency-version/RonWaller/vite-vanilla-project-starter/dev/eslint?style=flat-square&color=yellow)
-![Prettier (dev dep on branch)](https://img.shields.io/github/package-json/dependency-version/RonWaller/vite-vanilla-project-starter/dev/prettier?style=flat-square&color=red)
-![Typescript (dev dep on branch)](https://img.shields.io/github/package-json/dependency-version/RonWaller/vite-vanilla-project-starter/dev/typescript?style=flat-square&color=orange)
+![Vue](https://img.shields.io/github/package-json/dependency-version/RonWaller/vite-vue-project-builder/vue?color=red&style=flat-square)
 
 ## Dev Dependencies
+
+![Vite](https://img.shields.io/github/package-json/dependency-version/RonWaller/vite-vue-project-builder/dev/vite?color=yellow&style=flat-square)
+![@vitejs/plugin-vue](https://img.shields.io/github/package-json/dependency-version/RonWaller/vite-vue-project-builder/dev/@vitejs/plugin-vue?color=green&style=flat-square)
 
 <br>
 
@@ -25,8 +24,6 @@ This repository will help create a boilerplate Vue project using Vite. When down
 ## Usage
 
 - Download Zip file
-
-## Installation
 
 ### Download Zip File
 
@@ -44,7 +41,9 @@ This repository will help create a boilerplate Vue project using Vite. When down
 
 </br>
 
-## Open Terminial
+## Installation
+
+### Open Terminial
 
 - Navigate to project folder
 
