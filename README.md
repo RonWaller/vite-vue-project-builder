@@ -1,10 +1,18 @@
 ![image](./images/vite-vue-banner.jpg)
 
-# Vite Vue Project Builder
+# Vite Vue Project Builder <!-- omit in toc -->
 
 This repository will help create a boilerplate Vue project using Vite. When downloading the repo locally all future projects can be created just by copying and renaming folder your project name.
 
-<br>
+- [Dependencies](#dependencies)
+- [Dev Dependencies](#dev-dependencies)
+- [Tech Stack](#tech-stack)
+- [How to Use](#how-to-use)
+- [Installation](#installation)
+  - [Open Terminial](#open-terminial)
+  - [Build Project](#build-project)
+  - [Open in Editor (VS Code)](#open-in-editor-vs-code)
+- [License](#license)
 
 ## Dependencies
 
@@ -21,31 +29,34 @@ This repository will help create a boilerplate Vue project using Vite. When down
 
 **Client:** Vue
 
-## Usage
+## How to Use
 
-- Download Zip file
-
-### Download Zip File
-
-- Click Code Button (1)
-- Download Zip (2)
-- Unzip file
-- Move folder to starter project location
-  1. Start new project
-  2. Copy repo folder
-  3. Rename folder to project name
-
-</br>
-
-![image](./images/zip_download.jpg)
-
-</br>
+- Use the 'src' folder for typical Vue project.
+- Once new project has been setup and dependencies installed delete image folder and README
+- Rename README_template to README for project
 
 ## Installation
 
+<details>
+
+<summary>Instructions</summary>
+
+![image](./images/zip_download.jpg)
+
+1. Download Zip File
+   - Click Code Button (1)
+   - Download Zip (2)
+1. Unzip file
+1. Move folder to project location
+   - Rename folder to project name OR
+   - Copy repo folder
+   - Rename folder to project name
+
+</br>
+
 ### Open Terminial
 
-- Navigate to project folder
+- Navigate to projects folder
 
 Install dependencies
 
@@ -59,7 +70,7 @@ Start the dev server
   npm run dev
 ```
 
-## Build Project
+### Build Project
 
 To build for production
 
@@ -67,11 +78,17 @@ To build for production
   npm run build
 ```
 
-## Open in Editor (VS Code)
+### Open in Editor (VS Code)
 
 ```bash
   code .
 ```
+
+<br>
+
+**Now you can delete Image folder and README**
+
+</details>
 
 ## License
 
